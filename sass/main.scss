@@ -1,0 +1,23 @@
+/*SASS utils*/
+
+@import "utils/variables";
+@import "utils/mixins";
+@import "utils/placeholders";
+
+/*main comp*/
+
+@import "components/base";
+
+/*SASS comp*/
+
+@import "components/logo";
+
+@import "components/header";
+
+@import "components/banner";
+@import "components/form";
+@import "components/doing";
+@import "components/team";
+@import "components/client";
+
+@import "components/footer";
